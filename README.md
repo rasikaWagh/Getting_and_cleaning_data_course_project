@@ -9,5 +9,8 @@ This repository consists of R scripts and documentation of course project for ge
  2. HARTidyDataSet.txt - 
     - Tidy dataset text file of measurements on the mean and standard deviation for each measurement
 
- 3. averageDatasetBySubjectAndActivity.txt
+ 3. averageDatasetBySubjectAndActivity.txt- 
     - Tidy dataset text file which contains the average of each variable for each activity and each subject from HARTidyDataSet
+
+ 4. FeatureNames.txt -
+    - Text file containing the names of features included in both datasets 
